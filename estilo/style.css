@@ -144,6 +144,7 @@ padding-bottom: 52%;
 position: relative;
 }
 div.video > iframe {
+    
     position:absolute;
     top: 5%;
     left: 5%;
