@@ -22,6 +22,8 @@
 
 }
 
+
+
 section#redes-cv {
     text-align: center;
 }
@@ -172,14 +174,17 @@ main h2 {
     margin: auto;
     text-align: center;
  }
+
+main h4 img {
+    border-radius: 600px;
+    border: 4px solid rgb(255, 255, 255);}
+
+
+
  main h4 {
     margin: auto;
     text-align: center;
     
-    
-   
-   
-
  }
 
  main a { 
