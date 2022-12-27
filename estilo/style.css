@@ -12,7 +12,13 @@
     --cor5:#0c125f;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    
+   
+        --border: 3px;
+        --color1: #6be89b;
+        --color2: #0076a5;
+        --from: 30deg;
+        --distance: 46%;
+      
 }
 * {
     margin: 0px;
@@ -62,6 +68,8 @@ body    {
     background-image: linear-gradient(45deg, #298bd1,#3198e2,#e0e0ef,#6d59c0,#453585 );
     background-color:var(--cor0);
     font-family: var(--fonte-padrao);
+
+    
     
 }
 
