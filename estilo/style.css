@@ -12,13 +12,13 @@
     --cor5:#0c125f;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-   
+
         --border: 3px;
         --color1: #6be89b;
         --color2: #0076a5;
         --from: 30deg;
         --distance: 46%;
-      
+
 }
 * {
     margin: 0px;
@@ -36,7 +36,7 @@ section#redes-cv img {
     border-radius: 15%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.409);
     box-sizing: border-box;
-    
+
 }
 section#redes-cv img:hover {
     border: 2px solid rgba(110, 103, 138, 0.432);
@@ -69,8 +69,8 @@ body    {
     background-color:var(--cor0);
     font-family: var(--fonte-padrao);
 
-    
-    
+
+
 }
 
 p {
@@ -79,7 +79,7 @@ p {
     text-indent: 30px;
     line-height: 2em;
     font-size: 1em;
-       
+
 }
 
 header {
@@ -102,7 +102,7 @@ header > p {
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
-     
+
 }
 
 nav {
@@ -110,7 +110,7 @@ nav {
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.189);
     text-align: center;
-    
+
 }
 nav > a {
     color: white;
@@ -146,7 +146,7 @@ padding-bottom: 52%;
 position: relative;
 }
 
-div.video > iframe {  
+div.video > iframe {
     position:absolute;
     top: 5%;
     left: 5%;
@@ -163,7 +163,7 @@ main h1 {
 main h2 {
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
-    text-shadow:2px 2px #ffffff;  
+    text-shadow:2px 2px #ffffff;
 }
 
 main h3 {
@@ -179,11 +179,11 @@ main h4 img {
 main h4 {
     margin: auto;
     text-align: center;
-    
+
 }
 
 
-main a { 
+main a {
     text-decoration: none;
     font-weight: bold;
     color: var(--cor5);
