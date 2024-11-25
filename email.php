@@ -21,7 +21,7 @@ if(mail($to,$subject,$body,$header)){
 
    echo("Email enviado!");
 
-}else{ 
+}else{
     echo("Email não enviado");
 }
 
